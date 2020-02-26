@@ -1,3 +1,7 @@
+# Special
+data/test.csv
+data/train.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
